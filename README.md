@@ -1,2 +1,2 @@
 # learn-cuda-from-gemm
-A gemm implement expire to achieve 80% cuBLAS performance
+A gemm implement that expects to achieve 80% cuBLAS performance
